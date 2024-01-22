@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31273420084",
+    "project_id": "avid-lock-405816",
+    "storage_bucket": "avid-lock-405816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31273420084:android:600b9aee80caf6f4545161",
+        "android_client_info": {
+          "package_name": "bangkit.project.fed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChTv4I5oaxL-wnJl5FqFP5kJVah5XDoxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
